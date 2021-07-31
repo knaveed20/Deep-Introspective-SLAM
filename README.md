@@ -18,7 +18,7 @@ Currently the DQN is trained and tested on [Minos](https://github.com/minosworld
 
 # Training and Testing
 
-Once the complete integration is performed Training fuction can be used with following commands:
+Once the complete integration is performed DQNorb fuction can be used with following commands:
 
     python DQNorb.py --mode=dqn_train
     python DQNorb.py --mode=dqn_test
